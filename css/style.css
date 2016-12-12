@@ -1,0 +1,8 @@
+
+ a{
+	display: block;
+	padding: 15px 15px;
+	color: green;
+	background-color: black;
+	transition: all 5s;
+}
